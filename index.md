@@ -22,7 +22,7 @@
 > For this project, our team has conducted a conjoint analysis for a small toy company called EarlyRiders, a hand made toy riding horses specialist. The company is suffering for underperforming sales number for its product and decides to research on its product portfolio and reach the potential customers as much as possible. For this purpose,the company ran a conjoint analysis and our team has analyzed the result and ran market simulation with based on our findings. Our team presented the recommendation on what product we should lanuch next to reach all the potential customers. 
 
 
-![notebook preview](Annotation 2020-06-02 003358.png)
+![notebook preview](ann.png)
 
 ---
 
