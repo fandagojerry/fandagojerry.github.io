@@ -2,9 +2,9 @@ title: Renjie Xiao # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm currently pursuing a master's degree in Business Analytics at Simon Business School, University of Rochester.
+  Experienced in R, Python, Tableau, MySQL
   <br><br>
   <a href="https://www.linkedin.com/in/renjiexiao/">View My LinkedIn Profile</a> 
-  <br><br>
   <a href="https://github.com/fandagojerry">View My Github</a> 
   
 theme: jekyll-theme-minimal
