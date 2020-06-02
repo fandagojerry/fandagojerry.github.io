@@ -4,6 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm currently pursuing a master's degree in Business Analytics at Simon Business School, University of Rochester.
   <br><br>
   <a href="https://www.linkedin.com/in/renjiexiao/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://github.com/fandagojerry">View My Github</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
