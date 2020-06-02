@@ -1,12 +1,17 @@
 ## Projects
 
+### Data Warehousing with SQL
 
+> For this project, I created a data warehouse by cleaning data and using ETL to join mutiple table for Blue Hill Country Club. This will allow the company to understand their sales performance better and decide new marketing strategy to use. 
+
+![notebook preview](Capture.png)
+---
 
 ### Are people happy with the airline? - Sentiment Analysis with Python (Natural language processing with LDA)
 
 **[View Complete Project in Github](https://github.com/fandagojerry/SentimentAnalysis)**
 
-> For this project, I'm trying to conduct an social media sentiment analysis on airline carrier's twitter account. The data was collected from the university's SQL Server, this can also work with any web scrapper with simple modification. My goal is to analysis whether a tweet about the company is postive or negative so we can understand if the customers is happy with the company or not. The result can be used to improve customer relationships and deciding marketing strategies.
+> For this project, I'm conducted an social media sentiment analysis on airline carrier's twitter account. The data was collected from the university's SQL Server, this can also work with any web scrapper with simple modification. My goal is to analysis whether a tweet about the company is postive or negative so we can understand if the customers is happy with the company or not. The result can be used to improve customer relationships and deciding marketing strategies.
 
 ---
 
