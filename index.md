@@ -2,7 +2,7 @@
 
 ### Data Warehousing with SQL
 
-> For this project, I created a data warehouse by cleaning data and using ETL to join mutiple table for Blue Hill Country Club. This will allow the company to understand their sales performance better and decide new marketing strategy to use. 
+> For this project, I created a data warehouse for Blue Hill Country Club by cleaning data and using ETL to join mutiple table and combine sales for each section of the service. This will allow the company to understand their sales performance better and decide new marketing strategy to use. 
 
 ![notebook preview](Capture.png)
 ---
