@@ -8,9 +8,6 @@
 
 > For this project, I'm trying to conduct an social media sentiment analysis on airline carrier's twitter account. The data was collected from the university's SQL Server, this can also work with any web scrapper with simple modification. My goal is to analysis whether a tweet about the company is postive or negative so we can understand if the customers is happy with the company or not. The result can be used to improve customer relationships and deciding marketing strategies.
 
-
-![notebook preview](WechatIMG60.png)
-
 ---
 
 ### New Product Launch Recommendation for EarlyRiders - Conjoint Analysis and Market Simulation with R
